@@ -6,7 +6,7 @@
 
 ============= + github : www.github.com/DeveYassineBaghdadi +===================== 
 
-============= + for by me a coffee : paypal.me/YassineBaghdadi =================== 
+============= + for by me a coffee : www.paypal.me/YassineBaghdadi =================== 
 
 # send-email-from-gmail-by-python
 
