@@ -1,12 +1,14 @@
-============= + SCRIPT BY YASSINE BAGHDADI+=======================================
+======== + SCRIPT BY YASSINE BAGHDADI
 
-============= + Date : 05-09-2019 +===============================================
+======== + Date : 05-09-2019 
 
-============= + contact : www.facebook.com/yassine.baghdadi.391 +================= 
+======== + PortFolio : https://bit.ly/2lK8IH4
 
-============= + github : www.github.com/DeveYassineBaghdadi +===================== 
+======== + contact : https://bit.ly/2lEZhsC
 
-============= + for buy me a coffee : www.paypal.me/YassineBaghdadi =================== 
+======== + github : https://bit.ly/2k7f1Eh
+
+======== + buy coffee for me : https://bit.ly/2kcgRny 
 
 # send-email-from-gmail-by-python
 
