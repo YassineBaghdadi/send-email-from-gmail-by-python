@@ -1,4 +1,4 @@
-======== + SCRIPT BY YASSINE BAGHDADI
+======== + SCRIPT C BY YASSINE BAGHDADI
 
 ======== + Date : 05-09-2019 
 
@@ -8,7 +8,7 @@
 
 ======== + github : https://bit.ly/2k7f1Eh
 
-======== + buy coffee for me : https://bit.ly/2kcgRny 
+======== + buy a coffee for me : https://bit.ly/2kcgRny 
 
 # send-email-from-gmail-by-python
 
