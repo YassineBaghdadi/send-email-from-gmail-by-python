@@ -14,3 +14,11 @@
 
 simple script to send one or many emails by python 
 
+<br>
+<p align="center">
+	<br><br>
+	<b>🙌 buy me an <a href="https://bit.ly/3ckpSAj">Coffee</a> if u like my <b>work</b>🙌</b>
+</p>
+<br>
+
+---
