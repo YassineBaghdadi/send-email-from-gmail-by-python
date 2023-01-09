@@ -2,11 +2,9 @@
 
 ======== + Date : 05-09-2019 
 
-======== + PortFolio : https://bit.ly/2lK8IH4
+======== + PortFolio : https://yassinebaghdadi.com
 
-======== + contact : https://bit.ly/2lEZhsC
-
-======== + github : https://bit.ly/2k7f1Eh
+======== + contact : https://yassinebaghdadi.com/SM.html
 
 ======== + buy a coffee for me : https://bit.ly/2kcgRny 
 
@@ -14,11 +12,3 @@
 
 simple script to send one or many emails by python 
 
-<br>
-<p align="center">
-	<br><br>
-	<b>🙌 buy me an <a href="https://bit.ly/3ckpSAj">Coffee</a> if u like my <b>work</b>🙌</b>
-</p>
-<br>
-
----
